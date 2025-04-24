@@ -32,7 +32,7 @@
 ## 📫 Me contacter
 
 - 📧 Email : amanikhrayif22@gmail.com  
-- 💼 LinkedIn : [linkedin.com/in/amani-khrayif](www.linkedin.com/in/amanikhrayif)  
+- 💼 LinkedIn : https://www.linkedin.com/in/amanikhrayif/ 
 
 
 ---
