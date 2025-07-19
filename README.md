@@ -27,6 +27,10 @@
 
 - **Formulaire de formation dynamique** — HTML + Node.js + MongoDB
 - **Tableau de bord de données** — Elasticsearch + Kibana
+- **Analyse interactive des données COVID-19 en Europe avec Python, MongoDB et Plotly/matplotlib
+ (Pipeline complet d'analyse des données COVID-19 pour les pays européens )
+
+
 
 ---
 
